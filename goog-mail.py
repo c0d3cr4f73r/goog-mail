@@ -66,7 +66,6 @@ stdout.write('''
  \______  /\____/ \____/\___  /          \____|__  (____  /__|____/ /\ |   __// ____|
         \/             /_____/                   \/     \/          \/ |__|   \/     
 
-Author: k4u5h41
 
 Emails associated with the domain will appear below: 
 ''')
